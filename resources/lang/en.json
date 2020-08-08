@@ -1,0 +1,18 @@
+{
+    "weather ": "weather ",
+    "km": "km",
+    "m": "m",
+    "mm Hg": "mm Hg",
+    "northern": "northern",
+    "north east": "north east",
+    "eastern": "eastern",
+    "south-eastern": "south-eastern",
+    "south": "south",
+    "south west": "south west",
+    "western": "western",
+    "northwest": "northwest",
+    "unavailable": "unavailable",
+    "m/sec": "m/sec",
+    "An error occurred when searching for weather in the specified place... &#128530;": "An error occurred when searching for weather in the specified place... &#128530;",
+    "Unfortunately, I didn't recognize the command &#128532;": "Unfortunately, I didn't recognize the command &#128532;"
+}
